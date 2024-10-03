@@ -1,0 +1,8 @@
+ipykernel
+PyPDF2 
+pdfplumber 
+sentence-transformers 
+faiss-cpu 
+streamlit
+python-dotenv
+openai==0.28.0
